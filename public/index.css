@@ -1,0 +1,8 @@
+body{
+    background-color: antiquewhite;
+}
+#root{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}

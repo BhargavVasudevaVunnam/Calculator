@@ -1,0 +1,172 @@
+#numbergroup{
+display: flex;
+flex: 3;
+align-content: center;
+flex-direction: column;
+padding: 5px;
+gap:1em;
+}
+
+.l1{
+flex: 1;
+align-content: center;
+justify-content: center;
+display: flex;
+gap: 3px;
+}
+.l1 > button{
+    width: 75px;
+}
+.l2{
+flex: 1;
+align-content: center;
+justify-content: center;
+display: flex;
+gap: 3px;
+}
+.l2 > button{
+    width: 75px;
+}
+.l3{
+flex: 1;
+align-content: center;
+justify-content: center;
+display: flex;
+gap: 3px;
+}
+.l3 > button{
+    width: 75px;
+}
+.l4{
+flex: 1;
+align-content: center;
+justify-content: center;
+display: flex;
+}
+.l4 > button{
+    width: 100px;
+}
+
+
+/**buttons
+
+**/
+#a0:hover{
+    transform: scale(1.3);
+    transition: all 100ms;
+}
+#a0:active{
+    background-color: white;
+}
+#a1:hover{
+    transform: scale(1.3);
+    transition: all 100ms;
+}
+#a1:active{
+    background-color: white;
+}
+#a2:hover{
+    transform: scale(1.3);
+    transition: all 100ms;
+}
+#a2:active{
+    background-color: white;
+}
+#a3:hover{
+    transform: scale(1.3);
+    transition: all 100ms;
+}
+#a3:active{
+    background-color: white;
+}
+#a4:hover{
+    transform: scale(1.3);
+    transition: all 100ms;
+}
+#a4:active{
+    background-color: white;
+}
+#a5:hover{
+    transform: scale(1.3);
+    transition: all 100ms;
+}
+#a5:active{
+    background-color: white;
+}
+#a6:hover{
+    transform: scale(1.3);
+    transition: all 100ms;
+}
+#a6:active{
+    background-color: white;
+}
+#a7:hover{
+    transform: scale(1.3);
+    transition: all 100ms;
+}
+#a7:active{
+    background-color: white;
+}
+#a8:hover{
+    transform: scale(1.3);
+    transition: all 100ms;
+}
+#a8:active{
+    background-color: white;
+}
+#a9:hover{
+    transform: scale(1.3);
+    transition: all 100ms;
+}
+#a9:active{
+    background-color: white;
+}
+#a0:hover{
+    transform: scale(1.3);
+    transition: all 100ms;
+}
+#a0:active{
+    background-color: white;
+}
+#AC:hover{
+    transform: scale(1.1);
+    transition: all 100ms;
+}
+#AC:active{
+    background-color: white;
+}
+#add:hover{
+    transform: scale(1.1);
+    transition: all 100ms;
+}
+#add:active{
+    background-color: white;
+}
+#sub:hover{
+    transform: scale(1.1);
+    transition: all 100ms;
+}
+#sub:active{
+    background-color: white;
+}
+#multi:hover{
+    transform: scale(1.1);
+    transition: all 100ms;
+}
+#multi:active{
+    background-color: white;
+}
+#divide:hover{
+    transform: scale(1.1);
+    transition: all 100ms;
+}
+#divide:active{
+    background-color: white;
+}
+#equals:hover{
+    transform: scale(1.1);
+    transition: all 100ms;
+}
+#equals:active{
+    background-color: white;
+}
